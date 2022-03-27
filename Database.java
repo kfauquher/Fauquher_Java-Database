@@ -1,7 +1,5 @@
 //Author Name: Kylie Fauquher
-//Date: 3/5/2022
-//Program Name: Fauquher_Java-Database
-//Purpose: Connection to a database in MySQL with Java. Creating tables, inserting rows, fetching data.
+//Date: 3/2022
 
 package database;
 
